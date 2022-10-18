@@ -51,8 +51,8 @@ button:hover {
     margin: auto;
 }
 .square {
-    width: 60px;
-    height: 60px;
+    width: calc(100% / 10);
+    height: 90px;
     background-color:dodgerblue;
     border: 1px solid black;
 }
